@@ -13,9 +13,8 @@
   
   Cześć mam na imię Tomek i stawiam swoje pierwsze kroki w branży IT.
   Poszukuję pracy jako junior lub stażu płatnego lub bezpłatnego aby nabrac jakże ważnego doświadczenia.
-  Dwa miesice temu udało mi się zdobyć mój pierwszy certyfikat który bazował za wiedzy zawartej w sylabusie ISTQB.
-  (Link do certyfikatu) 
-  Podczas Kursu uczyłem się korzystania z technologii takich jak Postman, sellenium, Jira, SQL.
+  Dnia 7.10.2023 udało mi się zdobyć mój pierwszy certyfikat który bazował za wiedzy zawartej w sylabusie ISTQB.
+  Podczas Kursu uczyłem się korzystania z technologii takich jak Postman, Sellenium, Jira, SQL.
   Staram się rozwijać aktualnie uczę się realizując kurs Udemy ,,Kurs Selenium Python od podstaw" oraz w wolnych chwilach czytając e-booka ,,100 sposobów na SQL"
 
 <!---
